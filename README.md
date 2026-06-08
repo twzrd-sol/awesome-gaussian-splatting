@@ -115,6 +115,10 @@ Gaussian Splatting is a revolutionary technique that combines the advantages of 
 
 
 
+## Tools & APIs
+
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 ## Rendering and Visualisation Tools
 
 #### [Three.js-based implementation of the 3D Gaussian splat viewer](https://github.com/mkkellogg/GaussianSplats3D)
